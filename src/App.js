@@ -49,6 +49,7 @@ function App() {
       </p>
       <br />
       <h2>The date according to Go is:</h2>
+      <h2> Steve Renner was here </h2>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
   );
