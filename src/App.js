@@ -22,7 +22,7 @@ function App() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          ZEIT Now
+          ZEIT bruh
         </a>
         !
       </h2>
@@ -38,7 +38,7 @@ function App() {
         <a href="https://facebook.github.io/create-react-app/">
           Create React App
         </a>{' '}
-        and contains three directories, <code>/public</code> for static assets,{' '}
+        and oiiiidafd three directories, <code>/public</code> for static assets,{' '}
         <code>/src</code> for components and content, and <code>/api</code>{' '}
         which contains a serverless <a href="https://golang.org/">Go</a>{' '}
         function. See{' '}
@@ -48,7 +48,7 @@ function App() {
         .
       </p>
       <br />
-      <h2>The date according to Go is:</h2>
+      <h2>The DuuUUUuuuddeeee according to Go is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
   );
